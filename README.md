@@ -10,10 +10,10 @@ Welcome to PseudoSpectralPython, a short course that will teach you how to solve
 
 ###Table of contents:
 
-- [Course scope](#Course-scope)
-- [Pre-requisites](#Pre-requisites)
-- [Additional resources](#Additional-Resources)
-- [Errors, suggestions, etc.](#Errors,-suggestions,-etc.)
+- [Course scope](#course-scope)
+- [Pre-requisites](#pre-requisites)
+- [Additional resources](#additional-resources)
+- [Errors, suggestions, etc.](#errors,-suggestions,-etc.)
 
 ## Course scope
 
@@ -35,7 +35,7 @@ The code for this course is written in Python, which is a programming language d
 
 You should know a little Python before starting the course.  In particular, you should be familiar with the packages [numpy](http://www.numpy.org/) and [matplotlib](http://matplotlib.org/).  If you aren't, a good place to start is [Lesson 0 of the HyperPython course](http://nbviewer.ipython.org/github/ketch/HyperPython/blob/master/Lesson_00_Python.ipynb).  If you're completely new to Python, or to programming in general, you may wish to go through one of the many great free online Python tutorials available on the web.
 
-[IPython](http://www.ipython.org) is a collection of tools for interactive programming in Python.  Most importantly for us, IPython includes an interactive shell and a browser-based notebook.  The notebook (which you are using now) allows you to run Python code in your web browser; just click on a cell with code and hit shift+enter.
+[IPython](http://www.ipython.org) is a collection of tools for interactive programming in Python.  Most importantly for us, IPython includes an interactive shell and a browser-based notebook, now known as the Jupyter notebook.  You will need at least version 3 of IPython in order to open the notebooks for this course.
 
 ### Mathematics
 
@@ -43,11 +43,11 @@ The course will make more sense if you have had a course in partial differential
 
 ### Software
 
-To run the code in this course, you'll need an installation of Python, numpy, matplotlib, and IPython.  The easiest way to get them all is to use [SageMathCloud](http://cloud.sagemath.org) -- just create a free account, start a new project, open a terminal, and type
+To run the code in this course, you'll need an installation of Python, numpy, matplotlib, and IPython (version >= 3.0).  The easiest way to get them all is to use [SageMathCloud](http://cloud.sagemath.org) -- just create a free account, start a new project, open a terminal, and type
     
-    git clone git@github.com:ketch/HyperPython.git
+    git clone git@github.com:ketch/PseudoSpectralPython.git
    
-Open this notebook there and you're off.
+Open the first notebook there and you're off.
 
 You can also use [Wakari](http://wakari.io), or install everything locally on your own machine.  For local installation, [Anaconda](https://store.continuum.io/cshop/anaconda/) is convenient, or you can just use pip.  All of these are free.
 
