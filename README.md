@@ -47,6 +47,8 @@ To run the code in this course, you'll need an installation of Python, numpy, ma
     
     git clone git@github.com:ketch/PseudoSpectralPython.git
    
+You'll also need JSAnimation; follow instructions [here](https://gist.github.com/gforsyth/188c32b6efe834337d8a).
+
 Open the first notebook there and you're off.
 
 You can also use [Wakari](http://wakari.io), or install everything locally on your own machine.  For local installation, [Anaconda](https://store.continuum.io/cshop/anaconda/) is convenient, or you can just use pip.  All of these are free.
