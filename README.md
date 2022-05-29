@@ -4,7 +4,7 @@ A short course in pseudospectral collocation methods for wave equations, with im
 
 ###### Content provided under a Creative Commons Attribution license, CC-BY 4.0; code under MIT License. (c)2015 [David I. Ketcheson](http://davidketcheson.info)
 
-##### Version 0.1 - April 2015
+##### Version 0.3 - May 2022
 
 Welcome to PseudoSpectralPython, a short course that will teach you how to solve wave equations using pseudospectral collocation methods.  This notebook zero is just some preliminary material.  If you want to dive in, just skip to [the first notebook](./PSPython_01-linear-PDEs.ipynb)!
 
